@@ -10,12 +10,12 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Welcome. 
 
-# About me
+# About Me!
 I am currently pursuing a Master of Science in Public Policy and Management at Carnegie Mellon’s Heinz College, on track to graduate in May 2028. I am interested in social policy and public interest technology, and I seek to pursue a career as a policy analyst.
 
 Growing up in Latin America, specifically Guatemala and Nicaragua, and seeing the institutional nature of inequality led me to pursue my B.A. in political science at Emory University. This ultimately led me here, because I want to learn how I can tangibly be a part of the policies that bring about change within those institutions.
 
-# What I hope to learn
+# What I Hope to Learn
 In Telling Stories with Data, I'm interested in learning more about how I can best communicate my findings in ways that are accessible to a variety of audiences while conveying what I want them to take away. I want to learn how to tell a story with data, so to speak, rather than present numbers and findings that don't have clear connections or tie into a broader meaning.  
 
 # Portfolio
@@ -23,7 +23,7 @@ In Telling Stories with Data, I'm interested in learning more about how I can be
 # Examples
 In class demos and assignments: 
 
-## Assignment: [Data visualization critique #1 - AI Critique](Interest-in-buying-drones)
+## Assignment #1: [Data visualization critique - AI Critique](Interest-in-buying-drones)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
