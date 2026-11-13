@@ -34,20 +34,15 @@ I'd say the primary audience for this is likely aimed towards the general public
 
 ## My redesign sketch
 
-<div class='tableauPlaceholder' id='viz1794543296749' style='position: relative'><noscript><a href='#'><img alt='Five States Held Over Half of U.S. Wind Capacity in 2018Texas alone had 26%, more than the next three states combined  ' src='https:&#47;&#47;public.tableau.com&#47;
-static&#47;
-images&#47;
-Wi&#47;
-WindCapacityin2018&#47;
-Sheet1&#47;
-1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WindCapacityin2018&#47;
-Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;
-images&#47;Wi&#47;WindCapacityin2018&#47;
-Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1794543296749');
-var vizElement = divElement.getElementsByTagName('object')[0];
-vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+<div class='tableauPlaceholder' id='viz1794543104610' style='position: relative'><noscript><a href='#'><img alt='Five States Held Over Half of U.S. Wind Capacity in 2018Texas alone had 26%, more than the next three states combined  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WindCapacityin2018&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WindCapacityin2018&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WindCapacityin2018&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1794543104610');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 For my redesign, my goal was to limit the clutter by highlighting the states with the largest amounts of installed wind capacity. I sketched a lollipop chart, starting with the four states with the most wind capacity, followed by two average states in lighter colors. Below those, I included the combined installed capacity of the remaining states in grey and included the U.S. total in a callout.
