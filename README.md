@@ -42,16 +42,7 @@ However, I encountered a few issues as I was sketching. I found myself unsure of
 
 ## My final design
 
-<div class='tableauPlaceholder' id='viz1794543104610' style='position: relative'><noscript><a href='#'><img alt='Five States Held Over Half of U.S. Wind Capacity in 2018Texas alone had 26%, more than the next three states combined  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WindCapacityin2018&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WindCapacityin2018&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WindCapacityin2018&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1794543104610');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+https://public.tableau.com/app/profile/isabel.velez/viz/WindCapacityin2018/Sheet1?publish=yes  
 
 
 In my final design, I sought out to fix the issues I encountered above. First, I revised my math error and accounted for the five states that took up over half of U.S. wind capacity in 2018. I deleted the other states that were previously grey, and then added Missouri, the "median state" as a useful comparison point. I also decided to change my medium to a bar chart, since I find them easier to interpret more "standard" than lollipop charts. I added a bar of "remaining states" to see if I could make it work, but it was still distracting even if I made it lighter, so I decided to remove it. I figured that even without this comparison point, I could trust my audience to understand the massive scale of wind energy held by the five states (and Texas, in particular) regardless. I also chose to emphasize this in the subtitle, and in my annotation next to Missouri. Finally, I decided to change the color scheme of the five states. Texas is dark blue because it is in "first place", but the point I wanted to make was that they are a group! 
