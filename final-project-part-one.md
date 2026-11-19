@@ -82,7 +82,7 @@ I’ve created these visualizations with a dataset from Kaggle. As I’ve establ
 3. [Employment and skills](https://genlac.econo.unlp.edu.ar/employment-and-skills/#toggle-id-9) - More specifically, "Labor force participation rate"
 4. [Time spent on unpaid domestic and care work](https://oig.cepal.org/en/indicators?id=2287)
 
-Source 2 and 3 are from GenLac (Gender in Latin America and the Caribbean) database. The last dataset is from the Gender Equality Observatory of Latin America and the Caribbean, which also contains data to monitor progress towards gender equality in the region. I would like to use these for part 3 and 4 of my project.
+Source 1 is from Kaggle, which I used for my sketches. Sources 2 and 3 are from GenLac (Gender in Latin America and the Caribbean) database. The last dataset is from the Gender Equality Observatory of Latin America and the Caribbean, which also contains data to monitor progress towards gender equality in the region. I would like to use these for part 3 and 4 of my project.
 
 
 # Method and medium
