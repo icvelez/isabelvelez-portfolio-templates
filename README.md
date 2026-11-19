@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) 
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](dataviz-examples) | [Assignment #1 - Visualizing Government Debt](assignment-1.html) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) 
 
 # Isabel Velez's Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Welcome. 
@@ -14,7 +14,7 @@ In Telling Stories with Data, I'm interested in learning more about how I can be
 # Examples
 In class demos and assignments: 
 
-## Assignment #1: [Data visualization critique - AI Critique](Interest-in-buying-drones)
+## Assignment #1: [Visualizing Government Debt](assignment-1.html)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
