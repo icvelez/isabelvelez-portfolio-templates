@@ -1,18 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-Gender inequality in Latin America is shaped by a variety of social, economic, and institutional factors. Access to education and economic opportunities is not always equal, and traditional gender norms continue to influence women's roles in society. In particular, expectations that women take on caregiving and household responsibilities can affect their ability to pursue education and participate in the workforce.
+Gender inequality in Latin America is shaped by a variety of social, economic, and institutional factors. Access to education and economic opportunities is not always equal, and traditional gender norms continue to influence women's roles in society. Expectations stand out, being the perception that women should take on caregiving and household responsibilities, which can affect their ability to pursue education and participate in the workforce.
 
 There has been progress in women's educational attainment. The number of countries where women out-study men has tripled from 1990 to 2021. In 1990, Panama, Brazil, and Uruguay were the only countries where this was the case. A little over 3 decades later, six more countries have joined this group: the Dominican Republic, Venezuela, Argentina, Colombia, Costa Rica, and Trinidad and Tobago. There are still some countries where this is not the case, namely El Salvador, Honduras, and Chile, where we actually see lower educational attainment among women relative to men. But overall, the big picture is that there have been significant educational gains for women.
 
 Generally speaking, higher educational attainment is often associated with higher income levels and access to a larger variety of opportunities. The assumption is that this would also apply in these instances, especially in Latin American countries where women out-study men. However, an income gap remains, with ratios not even coming close to equal incomes. In fact, in Colombia, women's income as a share of men's has actually decreased in recent years.
 
-This suggests that educational attainment alone does not explain the economic disparities that women continue to face. I’m interested in showing how these findings challenge the assumption that greater educational attainment translates into greater economic equality. Despite the progress women have made in education, this has not been matched by comparable gains in income. 
+This suggests that educational attainment alone does not explain the economic disparities that women continue to face. I’m interested in showing how these findings challenge the assumption that greater educational attainment translates into greater economic equality. Despite the progress women have made in education, gains are not comparable in income. 
 
-Other factors play a role, which I would like to incorporate into the second second part of the project. Combining datasets that have information on occupational segregation, for instance, as well as unequal access to employment opportunities, and possibly perceptions-based data such as the role gender norms play I feel would provide me with much more insight.
+Other factors play a role, which I would like to incorporate into the second second part of the project. Combining datasets that have information on occupational segregation, for instance, as well as unequal access to employment opportunities, and possibly perceptions-based data such as the role gender norms play, I feel would provide much more insight.
 
 My research questions are: 
 1) Have decades of educational progress narrowed economic gender disparities in Latin America?
@@ -22,29 +19,29 @@ My research questions are:
 
 I want to begin by showing how women's educational attainment has changed across Latin America between 1990 and 2021. The first visualization compares women's mean years of schooling with men's across countries and over time.
 
-I show schooling as a ratio (women's value divided by men's), rather than using raw numbers. This puts every country on the same scale, with one clear point of equality (100%), so I can compare the size of the gender gap across countries with very different levels of educational attainment. It also allows me to show which countries have reached or surpassed educational equality, and how that has changed over time. 
+I show schooling as a ratio (women's value divided by men's), instead of using raw numbers. This puts every country on the same scale, with one clear point of equality, so I can compare the size of the gender gap across countries with very different levels of educational attainment. It also allows me to show which countries have reached or surpassed educational equality, and how that has changed over time. 
 
-The main point I hope to establish is that women have made considerable progress in education, with an increasing number of countries where women now out-study men.
+The main point I hope to establish is that women have made large gains in education, with an increasing number of countries where women now out-study men.
 
 # Part 2: Introducing the income gap
 
-After establishing these educational gains, I want to look at whether they have translated into greater economic equality. The second visualization compares women's estimated income as a share of men's from 1990 to 2021. I also use 5 of the 9 countries where women have surpassed men in terms of educational attainment to show that even in these countries, the income gap remains wide. I do not use all nine of these because they become cluttered and are difficult to read when they are all incorporated. 
+After establishing these educational gains, I want to look at whether they have translated into greater economic equality. The second visualization compares women's estimated income as a share of men's from 1990 to 2021. I also use 5 of the 9 countries where women have surpassed men in terms of educational attainment to show that even in these countries, the income gap remains wide. I do not use all nine of these because they become cluttered and are difficult to read when they are all used. 
 
-I use the same ratio approach here, with 100% representing equal income. This makes it possible to compare the income gap across countries and put the education and income findings side by side, even though they are measured in different units. 
+I use the same ratio approach here, with 1 representing equal income. This makes it possible to compare the income gap across countries and put the education and income findings side by side, even though they are measured in different units. 
 
-The contrast is the main point of this section– while the educational gap has narrowed in many countries, women's income remains substantially lower than men's. I also want to highlight differences across countries and changes over time, including Colombia, where the ratio has decreased in recent years.
+The contrast is the main point of this section. While the educational gap has narrowed in many countries, women's income remains much lower than men's. 
 
 # Part 3 (in progress): Labor force participation
 
-I would like my third visualization to account for women’s and men's labor-force participation over time. I want to explore whether the gap in labor-force participation has narrowed alongside educational attainment, or whether it has also remained similarly persistent. 
+I would like my third visualization to account for women’s and men's labor-force participation over time. I want to explore whether the gap in labor-force participation has narrowed alongside educational attainment, or whether it has also remained. 
 
 # Part 4 (in progress): What might explain the disconnect?
 
 Finally, I want to move beyond showing the disparities and consider what might explain them. As I’ve established, educational attainment alone does not account for the differences in income and workforce participation that remain.
 
-For a second part of the project, I would like to incorporate additional datasets on unpaid domestic and care work, employment opportunities, occupational segregation, and social norms. These could help explore how expectations around care work, the types of jobs available to women, and unequal opportunities in the labor market contribute to the economic disparities shown in the earlier visualizations.
+For a second part of the project, I would like to incorporate datasets on unpaid domestic and care work, employment opportunities, occupational segregation, and social norms. These could help demonstrate or tell a story about how expectations around care work, the types of jobs available to women, and unequal opportunities in the labor market contribute to the economic disparities shown in my previous visualizations.
 
-Ultimately, my goal is for my audience to come away understanding that educational progress and economic equality do not necessarily go hand in hand. It is much more complex than that. Women have made significant gains in education, but those gains have not automatically translated into equal economic outcomes. 
+Ultimately, my goal is for the takeaway to be that educational progress does not necessarily always translate into economic equality, despite the assumption that it does. This is because it is much more complex and multifaceted than that.
 
 
 ## Initial sketches
@@ -72,7 +69,7 @@ Ultimately, my goal is for my audience to come away understanding that education
 
 From: https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics
 
-I’ve created these visualizations with a dataset from Kaggle. As I’ve established, I plan to use this to set up the first part of my story– that educational progress alone has not helped bridge the gap between income levels among men and women in Latin America. 
+I’ve created these visualizations with a dataset from Kaggle. I plan to use this to set up the first part of my story– that educational progress alone has not helped bridge the gap between income levels among men and women in Latin America. 
 
 # The data
 1.[Latin America Gender Statistics - inequalities](https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics)
