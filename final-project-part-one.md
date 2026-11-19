@@ -67,9 +67,8 @@ Ultimately, my goal is for the takeaway to be that educational progress does not
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-From: https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics
 
-I’ve created these visualizations with a dataset from Kaggle. I plan to use this to set up the first part of my story– that educational progress alone has not helped bridge the gap between income levels among men and women in Latin America. 
+I’ve created these visualizations with a dataset from Kaggle (first link below). I plan to use this to set up the first part of my story– that educational progress alone has not helped bridge the gap between income levels among men and women in Latin America. 
 
 # The data
 1.[Latin America Gender Statistics - inequalities](https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics)
