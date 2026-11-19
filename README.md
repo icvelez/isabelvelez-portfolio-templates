@@ -18,8 +18,8 @@ In Telling Stories with Data, I'm interested in learning more about how I can be
 ## Design by Critique: [Makeover Monday](makeover-monday.html)
 
 ## Final Project
-[Part I](final-project-part-one)
-[Part II - IN PROGRESS](final-project-part-two)
-[Part III IN PROGRESS](final-project-part-three)
+1. [Part I](final-project-part-one)
+2. [Part II - IN PROGRESS](final-project-part-two)
+3. [Part III IN PROGRESS](final-project-part-three)
 
 ## Other Data Visualizations: [Data Viz Examples](dataviz-examples)
