@@ -1,4 +1,4 @@
-| [Home Page](https://icvelez.github.io/isabelvelez-portfolio-templates/) | [Assignment #1 - Visualizing Government Debt](assignment-1) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [Data Viz Examples](dataviz-examples) 
+| [Home Page](isabelvelez-portfolio-templates) | [Assignment #1 - Visualizing Government Debt](assignment-1) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [Data Viz Examples](dataviz-examples) 
 
 # Isabel Velez's Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Welcome. 
