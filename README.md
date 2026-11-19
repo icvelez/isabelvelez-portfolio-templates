@@ -15,13 +15,11 @@ In Telling Stories with Data, I'm interested in learning more about how I can be
 In class demos and assignments: 
 
 ## Assignment #1: [Visualizing Government Debt](assignment-1.html)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4 FIX: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Makeover Monday (also linked above): 
-[Makeover Monday](makeover-monday.html)
+## Design by Critique: [Makeover Monday](makeover-monday.html)
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
