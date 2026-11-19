@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://icvelez.github.io/isabelvelez-portfolio-templates/) | [Assignment #1 - Visualizing Government Debt](assignment-1) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [Data Viz Examples](dataviz-examples) 
 
 # Outline
 Inaccessibility to education has historically continued to be an issue for women in Latin America. Systemic barriers related to geographic location, race, and socioeconomic status have all contributed to unequal access to educational opportunities. 
@@ -15,7 +15,7 @@ My research questions are:
 1) Have decades of educational progress narrowed economic gender disparities in Latin America?
 2) (In progress): If education is not improving outcomes for income disparities, what is preventing women from achieving economic equality?
 
-# Part 1: Establishing the progress in women's education
+## Part 1: Establishing the progress in women's education
 
 I want to begin by showing how women's educational attainment has changed across Latin America between 1990 and 2021. The first visualization compares women's mean years of schooling with men's across countries and over time.
 
@@ -23,7 +23,7 @@ I show schooling as a ratio (women's value divided by men's), instead of using r
 
 The main point I hope to establish is that women have made large gains in education, with an increasing number of countries where women now out-study men.
 
-# Part 2: Introducing the income gap
+## Part 2: Introducing the income gap
 
 After establishing these educational gains, I want to look at whether they have translated into greater economic equality. The second visualization compares women's estimated income as a share of men's from 1990 to 2021. I also use 5 of the 9 countries where women have surpassed men in terms of educational attainment to show that even in these countries, the income gap remains wide. I do not use all nine of these because they become cluttered and are difficult to read when they are all used. 
 
@@ -31,11 +31,11 @@ I use the same ratio approach here, with 1 representing equal income. This makes
 
 The contrast is the main point of this section. While the educational gap has narrowed in many countries, women's income remains much lower than men's. 
 
-# Part 3 (in progress): Labor force participation
+## Part 3 (in progress): Labor force participation
 
 I would like my third visualization to account for women’s and men's labor-force participation over time. I want to explore whether the gap in labor-force participation has narrowed alongside educational attainment, or whether it has also remained. 
 
-# Part 4 (in progress): What might explain the disconnect?
+## Part 4 (in progress): What might explain the disconnect?
 
 Finally, I want to move beyond showing the disparities and consider what might explain them. As I’ve established, educational achivement alone does not account for the differences in income and workforce participation that remain.
 
@@ -43,7 +43,7 @@ For a second part of the project, I would like to incorporate datasets on unpaid
 
 Ultimately, my goal is for the takeaway to be that educational progress does not necessarily always translate into economic equality, despite the assumption that it does. This is because it is much more complex and multifaceted than that.
 
-## Initial sketches
+# Initial Sketches
 <div class='tableauPlaceholder' id='viz1795055763898' style='position: relative'><noscript><a href='#'><img alt='Women out-study men in triple the number of Latin American countries since 1990Women&#39;s average years of schooling as a share of men&#39;s, ordered by 2021 value.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;countriesandeducation&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='countriesandeducation&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;countriesandeducation&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
 <script type='text/javascript'>
@@ -69,7 +69,7 @@ Ultimately, my goal is for the takeaway to be that educational progress does not
 
 I’ve created these visualizations with a dataset from Kaggle (first link below). I plan to use this to set up the first part of my story– that educational progress alone has not helped bridge the gap between income levels among men and women in Latin America. 
 
-# The data
+# The Data
 1.[Latin America Gender Statistics - inequalities](https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics)
 
  
@@ -80,7 +80,7 @@ I’ve created these visualizations with a dataset from Kaggle (first link below
 Source 1 is from Kaggle, which I used for my sketches. Sources 2 and 3 are from GenLac (Gender in Latin America and the Caribbean) database. The last dataset is from the Gender Equality Observatory of Latin America and the Caribbean, which also contains data to monitor progress towards gender equality in the region. I would like to use these for part 3 and 4 of my project.
 
 
-# Method and medium
+# Method and Medium
 I used Tableau for my first two visualizations, and would like to use it for the remaining ones as well. I’d also like to use Shorthand for the presentation aspect of my project.  
 
 ## References
