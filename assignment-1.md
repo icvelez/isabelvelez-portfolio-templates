@@ -1,59 +1,27 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](dataviz-examples) | [Assignment #1 - Visualizing Government Debt](assignment-1) | [Makeover Monday](makeover-monday.html) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) 
 
-# Title
-Text here...
+## Original visualization: [General government debt](https://www.oecd.org/en/data/indicators/general-government-debt.html) 
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+<img width="1248" height="672" alt="Screenshot 2026-11-19 at 10 47 53 AM" src="https://github.com/user-attachments/assets/8910c5aa-4029-4d8b-a022-a0c87529ab71" />
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+The original dataset can be found on the OECD's website, linked above. This is a time-series dataset that tracks government debt over time, and we can examine how public debt changes across different years and countries.
 
-## Step one: the visualization
+## My Redesign 
+<div class='tableauPlaceholder' id='viz1795103503420' style='position: relative'><noscript><a href='#'><img alt='Which Countries Have Stayed Above 100% Debt-to-GDP?  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ye&#47;YearsandDebt&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='YearsandDebt&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ye&#47;YearsandDebt&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1795103503420');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+After creating the first visualization, what stood out to me were the countries that consistently stayed above 100% debt-to-GDP. To make these stand out, I chose the Top 6: Japan, Greece, Italy, Portugal, Belgium, and France. I chose to keep "OECD average country" as a benchmark, and then added a 100% line so that it would easier to see the countries above that mark. 
 
-## Step three: Sketch a solution
-
-## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-## References
-_List any references you used here._
+For a comparison or reference, I chose two other countries that had more "normal" amounts of debt and were below that line (Germany and Mexico). Then, I ensured that the Top 6 were distinct colors, made the OECD line a dark gray for contrast, and then Mexico and Germany lighter shades of gray. I initially had a legend, but found it was a bit inconvenient to look between the many colors and lines, so I instead added the country labels next to their respective lines. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Claude to help me with my lines, more specifically, for guidance with adding labels to them and for setting their individual colors. 
 
