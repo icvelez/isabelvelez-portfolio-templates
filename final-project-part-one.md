@@ -77,7 +77,7 @@ I’ve created these visualizations with a dataset from Kaggle. As I’ve establ
 # The data
 1.[Latin America Gender Statistics - inequalities](https://www.kaggle.com/datasets/natalyreguerin/latin-america-gender-statistics)
 
-The sources I plan to incorporate: 
+ 
 2. [Social norms](https://genlac.econo.unlp.edu.ar/social-norms/#toggle-id-23) - More specifically, "all indicators about social norms in the family" or "all indicators about social norms in labor"
 3. [Employment and skills](https://genlac.econo.unlp.edu.ar/employment-and-skills/#toggle-id-9) - More specifically, "Labor force participation rate"
 4. [Time spent on unpaid domestic and care work](https://oig.cepal.org/en/indicators?id=2287)
