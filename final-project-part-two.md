@@ -2,6 +2,11 @@
 
 # Wireframes / storyboards
 
+Context: I grew up in Guatemala, where educational attainment is low and women have significantly less economic and social opportunities. The income gap in particular, is disparate. I was curious about how much of this could be explained by education, but decided to focus on Latin America because Guatemala’s education system is exceptionally bad and not a usual case. 
+
+<img width="677" height="491" alt="project png" src="https://github.com/user-attachments/assets/51c9655a-7848-4ea4-9ce0-8b39ca7809ab" />
+
+
 ## Part 1 - Establishing progress in education
 <div class='tableauPlaceholder' id='viz1795055763898' style='position: relative'><noscript><a href='#'><img alt='Women out-study men in triple the number of Latin American countries since 1990Women&#39;s average years of schooling as a share of men&#39;s, ordered by 2021 value.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;countriesandeducation&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='countriesandeducation&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;countriesandeducation&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
@@ -73,21 +78,7 @@ Feedback:
 4. Some color changes could be a good idea, such as less use of gray. 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+I will be making the ratio aspect of my visualizations more explicit, in both the titles and in the axes titles. I will also be adding annotations with the numerical value of the gap where needed, and try experimenting with the colors and seeing if that makes things easier to see. 
 
 ## References
 N/A.
